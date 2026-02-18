@@ -65,7 +65,7 @@ Both commands should print a version number.
 
 A "fork" is your own personal copy of the project on GitHub.
 
-1. Go to the project page on GitHub.
+1. Go to the project page on GitHub. (https://github.com/charinev/unified-error-codes)
 2. Click the **Fork** button in the top-right corner.
 3. GitHub will create a copy under your account.
 
